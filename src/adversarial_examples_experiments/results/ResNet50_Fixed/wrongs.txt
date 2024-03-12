@@ -1,0 +1,296 @@
+ILSVRC2012_val_1.jpg | hognose snake, puff adder, sand viper | sea snake
+ILSVRC2012_val_3.jpg | Afghan hound, Afghan | collie
+ILSVRC2012_val_4.jpg | eggnog | espresso
+ILSVRC2012_val_6.jpg | sea snake | night snake, Hypsiglena torquata
+ILSVRC2012_val_8.jpg | lipstick, lip rouge | rubber eraser, rubber, pencil eraser
+ILSVRC2012_val_9.jpg | mousetrap | mongoose
+ILSVRC2012_val_17.jpg | axolotl, mud puppy, Ambystoma mexicanum | goldfish, Carassius auratus
+ILSVRC2012_val_33.jpg | sea lion | otter
+ILSVRC2012_val_37.jpg | axolotl, mud puppy, Ambystoma mexicanum | common newt, Triturus vulgaris
+ILSVRC2012_val_39.jpg | bulletproof vest | wallet, billfold, notecase, pocketbook
+ILSVRC2012_val_40.jpg | garden spider, Aranea diademata | tick
+ILSVRC2012_val_48.jpg | American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier | English foxhound
+ILSVRC2012_val_49.jpg | television, television system | cab, hack, taxi, taxicab
+ILSVRC2012_val_50.jpg | armadillo | butcher shop, meat market
+ILSVRC2012_val_54.jpg | lampshade, lamp shade | handkerchief, hankie, hanky, hankey
+ILSVRC2012_val_55.jpg | polecat, fitch, foulmart, foumart, Mustela putorius | black-footed ferret, ferret, Mustela nigripes
+ILSVRC2012_val_64.jpg | American chameleon, anole, Anolis carolinensis | green lizard, Lacerta viridis
+ILSVRC2012_val_65.jpg | racket, racquet | swimming trunks, bathing trunks
+ILSVRC2012_val_68.jpg | shield, buckler | vestment
+ILSVRC2012_val_70.jpg | wig | sweatshirt
+ILSVRC2012_val_71.jpg | barracouta, snoek | coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch
+ILSVRC2012_val_79.jpg | Irish wolfhound | otterhound, otter hound
+ILSVRC2012_val_84.jpg | American alligator, Alligator mississipiensis | water snake
+ILSVRC2012_val_85.jpg | buckle | beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+ILSVRC2012_val_87.jpg | indri, indris, Indri indri, Indri brevicaudatus | gibbon, Hylobates lar
+ILSVRC2012_val_88.jpg | loggerhead, loggerhead turtle, Caretta caretta | European fire salamander, Salamandra salamandra
+ILSVRC2012_val_92.jpg | colobus, colobus monkey | guenon, guenon monkey
+ILSVRC2012_val_94.jpg | yawl | catamaran
+ILSVRC2012_val_96.jpg | sliding door | passenger car, coach, carriage
+ILSVRC2012_val_101.jpg | spotlight, spot | can opener, tin opener
+ILSVRC2012_val_102.jpg | Weimaraner | Rhodesian ridgeback
+ILSVRC2012_val_105.jpg | standard schnauzer | silky terrier, Sydney silky
+ILSVRC2012_val_108.jpg | violin, fiddle | cello, violoncello
+ILSVRC2012_val_112.jpg | banana | medicine chest, medicine cabinet
+ILSVRC2012_val_114.jpg | espresso maker | binoculars, field glasses, opera glasses
+ILSVRC2012_val_115.jpg | bathtub, bathing tub, bath, tub | beagle
+ILSVRC2012_val_118.jpg | spotlight, spot | maze, labyrinth
+ILSVRC2012_val_119.jpg | parallel bars, bars | television, television system
+ILSVRC2012_val_121.jpg | monitor | boathouse
+ILSVRC2012_val_124.jpg | puffer, pufferfish, blowfish, globefish | sea slug, nudibranch
+ILSVRC2012_val_125.jpg | acorn | grasshopper, hopper
+ILSVRC2012_val_132.jpg | scale, weighing machine | stove
+ILSVRC2012_val_134.jpg | black-and-tan coonhound | Rottweiler
+ILSVRC2012_val_136.jpg | sea lion | wild boar, boar, Sus scrofa
+ILSVRC2012_val_137.jpg | washbasin, handbasin, washbowl, lavabo, wash-hand basin | rubber eraser, rubber, pencil eraser
+ILSVRC2012_val_146.jpg | bubble | trombone
+ILSVRC2012_val_147.jpg | Irish water spaniel | miniature poodle
+ILSVRC2012_val_148.jpg | beer bottle | oil filter
+ILSVRC2012_val_161.jpg | Tibetan mastiff | Irish terrier
+ILSVRC2012_val_163.jpg | beaker | measuring cup
+ILSVRC2012_val_168.jpg | cup | mortar
+ILSVRC2012_val_181.jpg | badger | llama
+ILSVRC2012_val_182.jpg | hot pot, hotpot | Dutch oven
+ILSVRC2012_val_184.jpg | picket fence, paling | maillot, tank suit
+ILSVRC2012_val_188.jpg | white wolf, Arctic wolf, Canis lupus tundrarum | coyote, prairie wolf, brush wolf, Canis latrans
+ILSVRC2012_val_189.jpg | sandbar, sand bar | stingray
+ILSVRC2012_val_190.jpg | can opener, tin opener | pencil sharpener
+ILSVRC2012_val_192.jpg | worm fence, snake fence, snake-rail fence, Virginia fence | park bench
+ILSVRC2012_val_202.jpg | bonnet, poke bonnet | bow tie, bow-tie, bowtie
+ILSVRC2012_val_203.jpg | Kerry blue terrier | Bouvier des Flandres, Bouviers des Flandres
+ILSVRC2012_val_204.jpg | dumbbell | stage
+ILSVRC2012_val_207.jpg | baboon | drake
+ILSVRC2012_val_210.jpg | shower cap | bassinet
+ILSVRC2012_val_214.jpg | padlock | parachute, chute
+ILSVRC2012_val_220.jpg | bull mastiff | pug, pug-dog
+ILSVRC2012_val_222.jpg | space heater | modem
+ILSVRC2012_val_224.jpg | Irish setter, red setter | golden retriever
+ILSVRC2012_val_227.jpg | Great Pyrenees | Brittany spaniel
+ILSVRC2012_val_228.jpg | Eskimo dog, husky | dogsled, dog sled, dog sleigh
+ILSVRC2012_val_229.jpg | mushroom | hay
+ILSVRC2012_val_232.jpg | wreck | crash helmet
+ILSVRC2012_val_239.jpg | armadillo | tub, vat
+ILSVRC2012_val_242.jpg | Arabian camel, dromedary, Camelus dromedarius | brown bear, bruin, Ursus arctos
+ILSVRC2012_val_248.jpg | American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier | Staffordshire bullterrier, Staffordshire bull terrier
+ILSVRC2012_val_254.jpg | mobile home, manufactured home | freight car
+ILSVRC2012_val_257.jpg | pay-phone, pay-station | microwave, microwave oven
+ILSVRC2012_val_260.jpg | Great Pyrenees | Labrador retriever
+ILSVRC2012_val_261.jpg | cowboy hat, ten-gallon hat | sombrero
+ILSVRC2012_val_262.jpg | jellyfish | stage
+ILSVRC2012_val_265.jpg | washbasin, handbasin, washbowl, lavabo, wash-hand basin | monitor
+ILSVRC2012_val_267.jpg | consomme | soup bowl
+ILSVRC2012_val_268.jpg | military uniform | assault rifle, assault gun
+ILSVRC2012_val_269.jpg | Eskimo dog, husky | Norwegian elkhound, elkhound
+ILSVRC2012_val_270.jpg | tripod | lakeside, lakeshore
+ILSVRC2012_val_272.jpg | steel arch bridge | bannister, banister, balustrade, balusters, handrail
+ILSVRC2012_val_273.jpg | toilet tissue, toilet paper, bathroom tissue | syringe
+ILSVRC2012_val_274.jpg | golfcart, golf cart | traffic light, traffic signal, stoplight
+ILSVRC2012_val_275.jpg | crossword puzzle, crossword | remote control, remote
+ILSVRC2012_val_277.jpg | oxygen mask | maraca
+ILSVRC2012_val_286.jpg | beaker | goblet
+ILSVRC2012_val_289.jpg | projectile, missile | aircraft carrier, carrier, flattop, attack aircraft carrier
+ILSVRC2012_val_292.jpg | hay | harvester, reaper
+ILSVRC2012_val_297.jpg | meerkat, mierkat | Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
+ILSVRC2012_val_301.jpg | megalith, megalithic structure | sea cucumber, holothurian
+ILSVRC2012_val_302.jpg | dough | caldron, cauldron
+ILSVRC2012_val_303.jpg | leopard, Panthera pardus | jaguar, panther, Panthera onca, Felis onca
+ILSVRC2012_val_305.jpg | toilet tissue, toilet paper, bathroom tissue | binder, ring-binder
+ILSVRC2012_val_311.jpg | goblet | screwdriver
+ILSVRC2012_val_315.jpg | cleaver, meat cleaver, chopper | American lobster, Northern lobster, Maine lobster, Homarus americanus
+ILSVRC2012_val_317.jpg | book jacket, dust cover, dust jacket, dust wrapper | carousel, carrousel, merry-go-round, roundabout, whirligig
+ILSVRC2012_val_320.jpg | wooden spoon | banana
+ILSVRC2012_val_329.jpg | ram, tup | cock
+ILSVRC2012_val_337.jpg | boa constrictor, Constrictor constrictor | rock python, rock snake, Python sebae
+ILSVRC2012_val_339.jpg | cellular telephone, cellular phone, cellphone, cell, mobile phone | carpenter's kit, tool kit
+ILSVRC2012_val_344.jpg | beaker | cocktail shaker
+ILSVRC2012_val_350.jpg | Italian greyhound | Boston bull, Boston terrier
+ILSVRC2012_val_351.jpg | window shade | doormat, welcome mat
+ILSVRC2012_val_356.jpg | crane | flamingo
+ILSVRC2012_val_357.jpg | minivan | limousine, limo
+ILSVRC2012_val_358.jpg | sandbar, sand bar | seashore, coast, seacoast, sea-coast
+ILSVRC2012_val_360.jpg | cellular telephone, cellular phone, cellphone, cell, mobile phone | sea lion
+ILSVRC2012_val_365.jpg | harvester, reaper | trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+ILSVRC2012_val_366.jpg | brassiere, bra, bandeau | bulletproof vest
+ILSVRC2012_val_369.jpg | aircraft carrier, carrier, flattop, attack aircraft carrier | warplane, military plane
+ILSVRC2012_val_372.jpg | scale, weighing machine | toyshop
+ILSVRC2012_val_377.jpg | barber chair | barbershop
+ILSVRC2012_val_378.jpg | carbonara | spaghetti squash
+ILSVRC2012_val_379.jpg | Bouvier des Flandres, Bouviers des Flandres | cairn, cairn terrier
+ILSVRC2012_val_380.jpg | planetarium | toilet seat
+ILSVRC2012_val_387.jpg | television, television system | desktop computer
+ILSVRC2012_val_398.jpg | fountain | crane
+ILSVRC2012_val_400.jpg | seat belt, seatbelt | pizza, pizza pie
+ILSVRC2012_val_405.jpg | great grey owl, great gray owl, Strix nebulosa | Scottish deerhound, deerhound
+ILSVRC2012_val_413.jpg | bow | stretcher
+ILSVRC2012_val_418.jpg | fly | dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+ILSVRC2012_val_419.jpg | photocopier | hard disc, hard disk, fixed disk
+ILSVRC2012_val_422.jpg | bucket, pail | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_425.jpg | toy poodle | miniature poodle
+ILSVRC2012_val_432.jpg | cab, hack, taxi, taxicab | police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+ILSVRC2012_val_433.jpg | pickelhaube | purse
+ILSVRC2012_val_441.jpg | Irish wolfhound | otterhound, otter hound
+ILSVRC2012_val_442.jpg | sliding door | sarong
+ILSVRC2012_val_447.jpg | hamster | skunk, polecat, wood pussy
+ILSVRC2012_val_450.jpg | Great Pyrenees | Labrador retriever
+ILSVRC2012_val_454.jpg | basketball | puck, hockey puck
+ILSVRC2012_val_459.jpg | backpack, back pack, knapsack, packsack, rucksack, haversack | sleeping bag
+ILSVRC2012_val_463.jpg | butternut squash | cucumber, cuke
+ILSVRC2012_val_465.jpg | Petri dish | espresso
+ILSVRC2012_val_469.jpg | parachute, chute | bassoon
+ILSVRC2012_val_473.jpg | can opener, tin opener | reel
+ILSVRC2012_val_476.jpg | black stork, Ciconia nigra | magpie
+ILSVRC2012_val_477.jpg | maze, labyrinth | necklace
+ILSVRC2012_val_481.jpg | ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus | giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+ILSVRC2012_val_484.jpg | ear, spike, capitulum | corn
+ILSVRC2012_val_491.jpg | dough | potpie
+ILSVRC2012_val_495.jpg | langur | proboscis monkey, Nasalis larvatus
+ILSVRC2012_val_496.jpg | television, television system | killer whale, killer, orca, grampus, sea wolf, Orcinus orca
+ILSVRC2012_val_503.jpg | teddy, teddy bear | bakery, bakeshop, bakehouse
+ILSVRC2012_val_507.jpg | Samoyed, Samoyede | kuvasz
+ILSVRC2012_val_510.jpg | mantis, mantid | ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+ILSVRC2012_val_513.jpg | face powder | tray
+ILSVRC2012_val_515.jpg | projectile, missile | missile
+ILSVRC2012_val_518.jpg | hammerhead, hammerhead shark | hare
+ILSVRC2012_val_519.jpg | crossword puzzle, crossword | microwave, microwave oven
+ILSVRC2012_val_521.jpg | stage | ocarina, sweet potato
+ILSVRC2012_val_522.jpg | stupa, tope | palace
+ILSVRC2012_val_526.jpg | perfume, essence | tray
+ILSVRC2012_val_528.jpg | African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus | black grouse
+ILSVRC2012_val_530.jpg | Arabian camel, dromedary, Camelus dromedarius | bison
+ILSVRC2012_val_531.jpg | Greater Swiss Mountain dog | EntleBucher
+ILSVRC2012_val_540.jpg | eggnog | nipple
+ILSVRC2012_val_541.jpg | tusker | Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
+ILSVRC2012_val_553.jpg | mongoose | chimpanzee, chimp, Pan troglodytes
+ILSVRC2012_val_556.jpg | carton | lifeboat
+ILSVRC2012_val_557.jpg | cassette | tape player
+ILSVRC2012_val_558.jpg | microphone, mike | loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+ILSVRC2012_val_562.jpg | liner, ocean liner | bullet train, bullet
+ILSVRC2012_val_568.jpg | alp | ski
+ILSVRC2012_val_570.jpg | artichoke, globe artichoke | goldfinch, Carduelis carduelis
+ILSVRC2012_val_572.jpg | conch | burrito
+ILSVRC2012_val_579.jpg | patio, terrace | toyshop
+ILSVRC2012_val_580.jpg | plunger, plumber's helper | confectionery, confectionary, candy store
+ILSVRC2012_val_581.jpg | mantis, mantid | hummingbird
+ILSVRC2012_val_582.jpg | sundial | cleaver, meat cleaver, chopper
+ILSVRC2012_val_585.jpg | meerkat, mierkat | mongoose
+ILSVRC2012_val_588.jpg | Old English sheepdog, bobtail | Irish terrier
+ILSVRC2012_val_592.jpg | groenendael | American black bear, black bear, Ursus americanus, Euarctos americanus
+ILSVRC2012_val_599.jpg | Weimaraner | beagle
+ILSVRC2012_val_600.jpg | leopard, Panthera pardus | jaguar, panther, Panthera onca, Felis onca
+ILSVRC2012_val_601.jpg | shoe shop, shoe-shop, shoe store | moving van
+ILSVRC2012_val_603.jpg | Cardigan, Cardigan Welsh corgi | Border collie
+ILSVRC2012_val_605.jpg | hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa | banana
+ILSVRC2012_val_606.jpg | loggerhead, loggerhead turtle, Caretta caretta | burrito
+ILSVRC2012_val_608.jpg | mask | maraca
+ILSVRC2012_val_611.jpg | oxcart | tractor
+ILSVRC2012_val_612.jpg | West Highland white terrier | cairn, cairn terrier
+ILSVRC2012_val_615.jpg | shower cap | sarong
+ILSVRC2012_val_621.jpg | missile | projectile, missile
+ILSVRC2012_val_622.jpg | cleaver, meat cleaver, chopper | flute, transverse flute
+ILSVRC2012_val_627.jpg | tape player | Polaroid camera, Polaroid Land camera
+ILSVRC2012_val_642.jpg | wombat | beaver
+ILSVRC2012_val_644.jpg | volcano | timber wolf, grey wolf, gray wolf, Canis lupus
+ILSVRC2012_val_647.jpg | iPod | loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+ILSVRC2012_val_651.jpg | junco, snowbird | brambling, Fringilla montifringilla
+ILSVRC2012_val_652.jpg | water tower | cinema, movie theater, movie theatre, movie house, picture palace
+ILSVRC2012_val_654.jpg | pop bottle, soda bottle | plane, carpenter's plane, woodworking plane
+ILSVRC2012_val_655.jpg | wild boar, boar, Sus scrofa | wallaby, brush kangaroo
+ILSVRC2012_val_659.jpg | obelisk | snowplow, snowplough
+ILSVRC2012_val_660.jpg | oxygen mask | laptop, laptop computer
+ILSVRC2012_val_664.jpg | liner, ocean liner | dock, dockage, docking facility
+ILSVRC2012_val_665.jpg | English setter | English springer, English springer spaniel
+ILSVRC2012_val_666.jpg | desk | shoe shop, shoe-shop, shoe store
+ILSVRC2012_val_667.jpg | cup | hook, claw
+ILSVRC2012_val_677.jpg | cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM | monitor
+ILSVRC2012_val_678.jpg | oxygen mask | comic book
+ILSVRC2012_val_680.jpg | mosque | castle
+ILSVRC2012_val_682.jpg | barrel, cask | puck, hockey puck
+ILSVRC2012_val_684.jpg | spotlight, spot | strainer
+ILSVRC2012_val_687.jpg | pitcher, ewer | bucket, pail
+ILSVRC2012_val_688.jpg | rock python, rock snake, Python sebae | boa constrictor, Constrictor constrictor
+ILSVRC2012_val_698.jpg | barbershop | dishwasher, dish washer, dishwashing machine
+ILSVRC2012_val_701.jpg | spotlight, spot | dumbbell
+ILSVRC2012_val_705.jpg | syringe | stinkhorn, carrion fungus
+ILSVRC2012_val_707.jpg | bookshop, bookstore, bookstall | tobacco shop, tobacconist shop, tobacconist
+ILSVRC2012_val_715.jpg | vault | library
+ILSVRC2012_val_721.jpg | fountain pen | rubber eraser, rubber, pencil eraser
+ILSVRC2012_val_723.jpg | wombat | black-footed ferret, ferret, Mustela nigripes
+ILSVRC2012_val_727.jpg | lotion | menu
+ILSVRC2012_val_728.jpg | dough | guacamole
+ILSVRC2012_val_729.jpg | Eskimo dog, husky | malamute, malemute, Alaskan malamute
+ILSVRC2012_val_740.jpg | conch | butcher shop, meat market
+ILSVRC2012_val_743.jpg | shopping cart | patio, terrace
+ILSVRC2012_val_759.jpg | barber chair | barbershop
+ILSVRC2012_val_761.jpg | bath towel | dishrag, dishcloth
+ILSVRC2012_val_768.jpg | pineapple, ananas | cabbage butterfly
+ILSVRC2012_val_769.jpg | lampshade, lamp shade | face powder
+ILSVRC2012_val_776.jpg | tank, army tank, armored combat vehicle, armoured combat vehicle | bobsled, bobsleigh, bob
+ILSVRC2012_val_777.jpg | desk | desktop computer
+ILSVRC2012_val_782.jpg | isopod | chocolate sauce, chocolate syrup
+ILSVRC2012_val_788.jpg | Indian elephant, Elephas maximus | chimpanzee, chimp, Pan troglodytes
+ILSVRC2012_val_789.jpg | cauliflower | zucchini, courgette
+ILSVRC2012_val_791.jpg | sea lion | starfish, sea star
+ILSVRC2012_val_799.jpg | cairn, cairn terrier | Yorkshire terrier
+ILSVRC2012_val_801.jpg | hair spray | lotion
+ILSVRC2012_val_802.jpg | briard | Tibetan terrier, chrysanthemum dog
+ILSVRC2012_val_803.jpg | mouse, computer mouse | laptop, laptop computer
+ILSVRC2012_val_806.jpg | leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea | garter snake, grass snake
+ILSVRC2012_val_810.jpg | cardoon | ringlet, ringlet butterfly
+ILSVRC2012_val_817.jpg | barracouta, snoek | maypole
+ILSVRC2012_val_820.jpg | dough | potpie
+ILSVRC2012_val_821.jpg | Dungeness crab, Cancer magister | king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica
+ILSVRC2012_val_831.jpg | carton | crate
+ILSVRC2012_val_832.jpg | Norwegian elkhound, elkhound | Border terrier
+ILSVRC2012_val_834.jpg | ballplayer, baseball player | pickelhaube
+ILSVRC2012_val_836.jpg | lycaenid, lycaenid butterfly | nematode, nematode worm, roundworm
+ILSVRC2012_val_838.jpg | basset, basset hound | beagle
+ILSVRC2012_val_841.jpg | barbershop | stretcher
+ILSVRC2012_val_848.jpg | tray | jigsaw puzzle
+ILSVRC2012_val_851.jpg | komondor | academic gown, academic robe, judge's robe
+ILSVRC2012_val_854.jpg | pedestal, plinth, footstall | wig
+ILSVRC2012_val_855.jpg | ping-pong ball | lens cap, lens cover
+ILSVRC2012_val_856.jpg | sliding door | violin, fiddle
+ILSVRC2012_val_858.jpg | beaker | coffee mug
+ILSVRC2012_val_867.jpg | toy poodle | miniature poodle
+ILSVRC2012_val_869.jpg | ice cream, icecream | meat loaf, meatloaf
+ILSVRC2012_val_870.jpg | barrow, garden cart, lawn cart, wheelbarrow | swing
+ILSVRC2012_val_875.jpg | cairn, cairn terrier | Norwich terrier
+ILSVRC2012_val_879.jpg | library | bookshop, bookstore, bookstall
+ILSVRC2012_val_881.jpg | artichoke, globe artichoke | cardoon
+ILSVRC2012_val_882.jpg | Lhasa, Lhasa apso | Tibetan terrier, chrysanthemum dog
+ILSVRC2012_val_887.jpg | hammer | rifle
+ILSVRC2012_val_896.jpg | bookshop, bookstore, bookstall | barbershop
+ILSVRC2012_val_897.jpg | carton | laptop, laptop computer
+ILSVRC2012_val_898.jpg | cougar, puma, catamount, mountain lion, painter, panther, Felis concolor | lynx, catamount
+ILSVRC2012_val_899.jpg | hair slide | tree frog, tree-frog
+ILSVRC2012_val_901.jpg | beacon, lighthouse, beacon light, pharos | lifeboat
+ILSVRC2012_val_902.jpg | handkerchief, hankie, hanky, hankey | cradle
+ILSVRC2012_val_911.jpg | hen | cock
+ILSVRC2012_val_913.jpg | umbrella | gondola
+ILSVRC2012_val_914.jpg | monastery | prison, prison house
+ILSVRC2012_val_918.jpg | sea cucumber, holothurian | snorkel
+ILSVRC2012_val_922.jpg | cairn, cairn terrier | Norwich terrier
+ILSVRC2012_val_923.jpg | umbrella | mortarboard
+ILSVRC2012_val_925.jpg | tree frog, tree-frog | green lizard, Lacerta viridis
+ILSVRC2012_val_926.jpg | cardoon | garden spider, Aranea diademata
+ILSVRC2012_val_938.jpg | loggerhead, loggerhead turtle, Caretta caretta | leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+ILSVRC2012_val_940.jpg | mud turtle | platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus
+ILSVRC2012_val_942.jpg | caldron, cauldron | electric fan, blower
+ILSVRC2012_val_946.jpg | malinois | German shepherd, German shepherd dog, German police dog, alsatian
+ILSVRC2012_val_948.jpg | bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis | vizsla, Hungarian pointer
+ILSVRC2012_val_949.jpg | silky terrier, Sydney silky | Yorkshire terrier
+ILSVRC2012_val_950.jpg | dough | French loaf
+ILSVRC2012_val_953.jpg | hammerhead, hammerhead shark | tricycle, trike, velocipede
+ILSVRC2012_val_954.jpg | slug | coral fungus
+ILSVRC2012_val_955.jpg | reflex camera | tripod
+ILSVRC2012_val_956.jpg | ground beetle, carabid beetle | ant, emmet, pismire
+ILSVRC2012_val_957.jpg | sax, saxophone | French horn, horn
+ILSVRC2012_val_964.jpg | guenon, guenon monkey | patas, hussar monkey, Erythrocebus patas
+ILSVRC2012_val_967.jpg | electric ray, crampfish, numbfish, torpedo | stinkhorn, carrion fungus
+ILSVRC2012_val_973.jpg | projectile, missile | vase
+ILSVRC2012_val_977.jpg | mortar | artichoke, globe artichoke
+ILSVRC2012_val_978.jpg | rhinoceros beetle | assault rifle, assault gun
+ILSVRC2012_val_980.jpg | packet | wallet, billfold, notecase, pocketbook
+ILSVRC2012_val_982.jpg | sandbar, sand bar | groom, bridegroom
+ILSVRC2012_val_987.jpg | mask | pinwheel
+ILSVRC2012_val_999.jpg | binoculars, field glasses, opera glasses | cannon

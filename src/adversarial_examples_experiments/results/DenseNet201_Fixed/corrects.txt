@@ -1,0 +1,384 @@
+ILSVRC2012_val_4.jpg | matchstick
+ILSVRC2012_val_5.jpg | church, church building
+ILSVRC2012_val_6.jpg | chain saw, chainsaw
+ILSVRC2012_val_8.jpg | web site, website, internet site, site
+ILSVRC2012_val_9.jpg | church, church building
+ILSVRC2012_val_10.jpg | stage
+ILSVRC2012_val_13.jpg | tripod
+ILSVRC2012_val_20.jpg | lemon
+ILSVRC2012_val_26.jpg | snowplow, snowplough
+ILSVRC2012_val_27.jpg | church, church building
+ILSVRC2012_val_36.jpg | church, church building
+ILSVRC2012_val_37.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_44.jpg | church, church building
+ILSVRC2012_val_46.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_61.jpg | tripod
+ILSVRC2012_val_65.jpg | barn
+ILSVRC2012_val_67.jpg | pinwheel
+ILSVRC2012_val_69.jpg | pinwheel
+ILSVRC2012_val_70.jpg | web site, website, internet site, site
+ILSVRC2012_val_71.jpg | church, church building
+ILSVRC2012_val_74.jpg | ski
+ILSVRC2012_val_75.jpg | church, church building
+ILSVRC2012_val_87.jpg | ski
+ILSVRC2012_val_88.jpg | bubble
+ILSVRC2012_val_89.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_90.jpg | park bench
+ILSVRC2012_val_91.jpg | snowplow, snowplough
+ILSVRC2012_val_93.jpg | tripod
+ILSVRC2012_val_98.jpg | snowplow, snowplough
+ILSVRC2012_val_101.jpg | web site, website, internet site, site
+ILSVRC2012_val_102.jpg | analog clock
+ILSVRC2012_val_104.jpg | snowplow, snowplough
+ILSVRC2012_val_105.jpg | spotlight, spot
+ILSVRC2012_val_106.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_108.jpg | church, church building
+ILSVRC2012_val_109.jpg | gown
+ILSVRC2012_val_110.jpg | church, church building
+ILSVRC2012_val_111.jpg | church, church building
+ILSVRC2012_val_113.jpg | tripod
+ILSVRC2012_val_115.jpg | snowplow, snowplough
+ILSVRC2012_val_116.jpg | tennis ball
+ILSVRC2012_val_122.jpg | barn
+ILSVRC2012_val_126.jpg | snowplow, snowplough
+ILSVRC2012_val_129.jpg | church, church building
+ILSVRC2012_val_130.jpg | tripod
+ILSVRC2012_val_132.jpg | barn
+ILSVRC2012_val_140.jpg | snowplow, snowplough
+ILSVRC2012_val_148.jpg | snowplow, snowplough
+ILSVRC2012_val_154.jpg | analog clock
+ILSVRC2012_val_159.jpg | snowplow, snowplough
+ILSVRC2012_val_165.jpg | rule, ruler
+ILSVRC2012_val_169.jpg | snowplow, snowplough
+ILSVRC2012_val_172.jpg | tripod
+ILSVRC2012_val_173.jpg | stage
+ILSVRC2012_val_178.jpg | tripod
+ILSVRC2012_val_179.jpg | ski
+ILSVRC2012_val_180.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_181.jpg | barn
+ILSVRC2012_val_182.jpg | church, church building
+ILSVRC2012_val_183.jpg | church, church building
+ILSVRC2012_val_184.jpg | analog clock
+ILSVRC2012_val_186.jpg | tripod
+ILSVRC2012_val_188.jpg | tripod
+ILSVRC2012_val_189.jpg | snowplow, snowplough
+ILSVRC2012_val_191.jpg | chain
+ILSVRC2012_val_194.jpg | snowplow, snowplough
+ILSVRC2012_val_197.jpg | snowplow, snowplough
+ILSVRC2012_val_198.jpg | church, church building
+ILSVRC2012_val_200.jpg | lemon
+ILSVRC2012_val_205.jpg | ski
+ILSVRC2012_val_208.jpg | analog clock
+ILSVRC2012_val_215.jpg | snowplow, snowplough
+ILSVRC2012_val_217.jpg | snowplow, snowplough
+ILSVRC2012_val_221.jpg | tripod
+ILSVRC2012_val_222.jpg | matchstick
+ILSVRC2012_val_225.jpg | snowplow, snowplough
+ILSVRC2012_val_226.jpg | church, church building
+ILSVRC2012_val_228.jpg | matchstick
+ILSVRC2012_val_231.jpg | church, church building
+ILSVRC2012_val_232.jpg | snowplow, snowplough
+ILSVRC2012_val_235.jpg | barn
+ILSVRC2012_val_236.jpg | snowplow, snowplough
+ILSVRC2012_val_240.jpg | snowplow, snowplough
+ILSVRC2012_val_241.jpg | tripod
+ILSVRC2012_val_243.jpg | snowplow, snowplough
+ILSVRC2012_val_244.jpg | snowplow, snowplough
+ILSVRC2012_val_247.jpg | tripod
+ILSVRC2012_val_248.jpg | tripod
+ILSVRC2012_val_250.jpg | barn
+ILSVRC2012_val_251.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_253.jpg | snowplow, snowplough
+ILSVRC2012_val_254.jpg | barn
+ILSVRC2012_val_257.jpg | snowplow, snowplough
+ILSVRC2012_val_263.jpg | tripod
+ILSVRC2012_val_266.jpg | web site, website, internet site, site
+ILSVRC2012_val_268.jpg | umbrella
+ILSVRC2012_val_271.jpg | cello, violoncello
+ILSVRC2012_val_272.jpg | snowplow, snowplough
+ILSVRC2012_val_273.jpg | church, church building
+ILSVRC2012_val_274.jpg | snowplow, snowplough
+ILSVRC2012_val_275.jpg | snowplow, snowplough
+ILSVRC2012_val_281.jpg | tripod
+ILSVRC2012_val_284.jpg | snowplow, snowplough
+ILSVRC2012_val_285.jpg | snowplow, snowplough
+ILSVRC2012_val_286.jpg | snowplow, snowplough
+ILSVRC2012_val_287.jpg | cello, violoncello
+ILSVRC2012_val_295.jpg | chainlink fence
+ILSVRC2012_val_298.jpg | snowplow, snowplough
+ILSVRC2012_val_304.jpg | conch
+ILSVRC2012_val_305.jpg | barn
+ILSVRC2012_val_306.jpg | tripod
+ILSVRC2012_val_308.jpg | snowplow, snowplough
+ILSVRC2012_val_309.jpg | web site, website, internet site, site
+ILSVRC2012_val_310.jpg | church, church building
+ILSVRC2012_val_311.jpg | church, church building
+ILSVRC2012_val_313.jpg | lemon
+ILSVRC2012_val_314.jpg | snowplow, snowplough
+ILSVRC2012_val_315.jpg | snowplow, snowplough
+ILSVRC2012_val_318.jpg | tripod
+ILSVRC2012_val_321.jpg | snowplow, snowplough
+ILSVRC2012_val_322.jpg | snowplow, snowplough
+ILSVRC2012_val_325.jpg | snowplow, snowplough
+ILSVRC2012_val_328.jpg | tripod
+ILSVRC2012_val_330.jpg | tripod
+ILSVRC2012_val_335.jpg | lighter, light, igniter, ignitor
+ILSVRC2012_val_341.jpg | church, church building
+ILSVRC2012_val_342.jpg | chain
+ILSVRC2012_val_345.jpg | snowplow, snowplough
+ILSVRC2012_val_347.jpg | conch
+ILSVRC2012_val_350.jpg | church, church building
+ILSVRC2012_val_351.jpg | barn
+ILSVRC2012_val_352.jpg | snowplow, snowplough
+ILSVRC2012_val_355.jpg | ski
+ILSVRC2012_val_359.jpg | snowplow, snowplough
+ILSVRC2012_val_360.jpg | church, church building
+ILSVRC2012_val_362.jpg | banana
+ILSVRC2012_val_364.jpg | barn
+ILSVRC2012_val_369.jpg | tripod
+ILSVRC2012_val_377.jpg | barn
+ILSVRC2012_val_380.jpg | snowplow, snowplough
+ILSVRC2012_val_381.jpg | snowplow, snowplough
+ILSVRC2012_val_382.jpg | umbrella
+ILSVRC2012_val_383.jpg | snowplow, snowplough
+ILSVRC2012_val_384.jpg | church, church building
+ILSVRC2012_val_387.jpg | snowplow, snowplough
+ILSVRC2012_val_388.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_389.jpg | analog clock
+ILSVRC2012_val_393.jpg | church, church building
+ILSVRC2012_val_404.jpg | banana
+ILSVRC2012_val_406.jpg | web site, website, internet site, site
+ILSVRC2012_val_410.jpg | snowplow, snowplough
+ILSVRC2012_val_413.jpg | church, church building
+ILSVRC2012_val_414.jpg | matchstick
+ILSVRC2012_val_415.jpg | tripod
+ILSVRC2012_val_419.jpg | church, church building
+ILSVRC2012_val_420.jpg | web site, website, internet site, site
+ILSVRC2012_val_422.jpg | church, church building
+ILSVRC2012_val_426.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_428.jpg | church, church building
+ILSVRC2012_val_430.jpg | church, church building
+ILSVRC2012_val_431.jpg | barn
+ILSVRC2012_val_432.jpg | barn
+ILSVRC2012_val_434.jpg | barn
+ILSVRC2012_val_435.jpg | church, church building
+ILSVRC2012_val_439.jpg | tripod
+ILSVRC2012_val_440.jpg | church, church building
+ILSVRC2012_val_445.jpg | web site, website, internet site, site
+ILSVRC2012_val_447.jpg | tripod
+ILSVRC2012_val_449.jpg | church, church building
+ILSVRC2012_val_450.jpg | church, church building
+ILSVRC2012_val_451.jpg | web site, website, internet site, site
+ILSVRC2012_val_455.jpg | snowplow, snowplough
+ILSVRC2012_val_461.jpg | church, church building
+ILSVRC2012_val_462.jpg | tripod
+ILSVRC2012_val_466.jpg | park bench
+ILSVRC2012_val_467.jpg | snowplow, snowplough
+ILSVRC2012_val_471.jpg | church, church building
+ILSVRC2012_val_474.jpg | church, church building
+ILSVRC2012_val_477.jpg | screw
+ILSVRC2012_val_478.jpg | church, church building
+ILSVRC2012_val_479.jpg | barn
+ILSVRC2012_val_481.jpg | church, church building
+ILSVRC2012_val_482.jpg | church, church building
+ILSVRC2012_val_483.jpg | snowplow, snowplough
+ILSVRC2012_val_488.jpg | snowplow, snowplough
+ILSVRC2012_val_490.jpg | barn
+ILSVRC2012_val_494.jpg | snowplow, snowplough
+ILSVRC2012_val_496.jpg | tripod
+ILSVRC2012_val_499.jpg | snowplow, snowplough
+ILSVRC2012_val_500.jpg | tripod
+ILSVRC2012_val_501.jpg | church, church building
+ILSVRC2012_val_503.jpg | pinwheel
+ILSVRC2012_val_504.jpg | analog clock
+ILSVRC2012_val_506.jpg | snowplow, snowplough
+ILSVRC2012_val_509.jpg | snowplow, snowplough
+ILSVRC2012_val_513.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_517.jpg | stage
+ILSVRC2012_val_518.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_520.jpg | lighter, light, igniter, ignitor
+ILSVRC2012_val_521.jpg | barn
+ILSVRC2012_val_522.jpg | ski
+ILSVRC2012_val_524.jpg | snowplow, snowplough
+ILSVRC2012_val_526.jpg | church, church building
+ILSVRC2012_val_527.jpg | umbrella
+ILSVRC2012_val_534.jpg | church, church building
+ILSVRC2012_val_536.jpg | church, church building
+ILSVRC2012_val_537.jpg | snowplow, snowplough
+ILSVRC2012_val_542.jpg | snowplow, snowplough
+ILSVRC2012_val_547.jpg | park bench
+ILSVRC2012_val_549.jpg | snowplow, snowplough
+ILSVRC2012_val_550.jpg | snowplow, snowplough
+ILSVRC2012_val_551.jpg | snowplow, snowplough
+ILSVRC2012_val_552.jpg | tripod
+ILSVRC2012_val_558.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_559.jpg | cello, violoncello
+ILSVRC2012_val_563.jpg | tripod
+ILSVRC2012_val_565.jpg | church, church building
+ILSVRC2012_val_568.jpg | tripod
+ILSVRC2012_val_574.jpg | church, church building
+ILSVRC2012_val_575.jpg | barn
+ILSVRC2012_val_578.jpg | church, church building
+ILSVRC2012_val_581.jpg | drum, membranophone, tympan
+ILSVRC2012_val_582.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_584.jpg | snowplow, snowplough
+ILSVRC2012_val_587.jpg | radio, wireless
+ILSVRC2012_val_593.jpg | tripod
+ILSVRC2012_val_595.jpg | banana
+ILSVRC2012_val_596.jpg | snowplow, snowplough
+ILSVRC2012_val_597.jpg | church, church building
+ILSVRC2012_val_599.jpg | church, church building
+ILSVRC2012_val_600.jpg | ski
+ILSVRC2012_val_606.jpg | church, church building
+ILSVRC2012_val_607.jpg | web site, website, internet site, site
+ILSVRC2012_val_609.jpg | tripod
+ILSVRC2012_val_615.jpg | snowplow, snowplough
+ILSVRC2012_val_616.jpg | web site, website, internet site, site
+ILSVRC2012_val_620.jpg | church, church building
+ILSVRC2012_val_626.jpg | barn
+ILSVRC2012_val_627.jpg | snowplow, snowplough
+ILSVRC2012_val_633.jpg | snowplow, snowplough
+ILSVRC2012_val_645.jpg | church, church building
+ILSVRC2012_val_646.jpg | snowplow, snowplough
+ILSVRC2012_val_648.jpg | tripod
+ILSVRC2012_val_649.jpg | cello, violoncello
+ILSVRC2012_val_650.jpg | space shuttle
+ILSVRC2012_val_653.jpg | church, church building
+ILSVRC2012_val_654.jpg | barn
+ILSVRC2012_val_656.jpg | web site, website, internet site, site
+ILSVRC2012_val_657.jpg | church, church building
+ILSVRC2012_val_658.jpg | ski
+ILSVRC2012_val_660.jpg | snowplow, snowplough
+ILSVRC2012_val_663.jpg | barn
+ILSVRC2012_val_668.jpg | snowplow, snowplough
+ILSVRC2012_val_669.jpg | snowplow, snowplough
+ILSVRC2012_val_670.jpg | tripod
+ILSVRC2012_val_672.jpg | tripod
+ILSVRC2012_val_677.jpg | barn
+ILSVRC2012_val_678.jpg | snowplow, snowplough
+ILSVRC2012_val_679.jpg | tripod
+ILSVRC2012_val_681.jpg | snowplow, snowplough
+ILSVRC2012_val_683.jpg | snowplow, snowplough
+ILSVRC2012_val_686.jpg | snowplow, snowplough
+ILSVRC2012_val_688.jpg | conch
+ILSVRC2012_val_693.jpg | barn
+ILSVRC2012_val_694.jpg | spotlight, spot
+ILSVRC2012_val_698.jpg | church, church building
+ILSVRC2012_val_699.jpg | matchstick
+ILSVRC2012_val_700.jpg | snowplow, snowplough
+ILSVRC2012_val_706.jpg | church, church building
+ILSVRC2012_val_707.jpg | analog clock
+ILSVRC2012_val_710.jpg | web site, website, internet site, site
+ILSVRC2012_val_711.jpg | church, church building
+ILSVRC2012_val_712.jpg | barn
+ILSVRC2012_val_713.jpg | ski
+ILSVRC2012_val_714.jpg | barn
+ILSVRC2012_val_717.jpg | tripod
+ILSVRC2012_val_720.jpg | snowplow, snowplough
+ILSVRC2012_val_728.jpg | church, church building
+ILSVRC2012_val_729.jpg | tripod
+ILSVRC2012_val_734.jpg | snowplow, snowplough
+ILSVRC2012_val_735.jpg | church, church building
+ILSVRC2012_val_737.jpg | snowplow, snowplough
+ILSVRC2012_val_741.jpg | church, church building
+ILSVRC2012_val_743.jpg | tripod
+ILSVRC2012_val_750.jpg | snowplow, snowplough
+ILSVRC2012_val_753.jpg | barn
+ILSVRC2012_val_754.jpg | snowplow, snowplough
+ILSVRC2012_val_758.jpg | snowplow, snowplough
+ILSVRC2012_val_759.jpg | tripod
+ILSVRC2012_val_762.jpg | barn
+ILSVRC2012_val_763.jpg | park bench
+ILSVRC2012_val_764.jpg | snowplow, snowplough
+ILSVRC2012_val_765.jpg | snowplow, snowplough
+ILSVRC2012_val_767.jpg | tripod
+ILSVRC2012_val_768.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_771.jpg | snowplow, snowplough
+ILSVRC2012_val_772.jpg | church, church building
+ILSVRC2012_val_774.jpg | tripod
+ILSVRC2012_val_776.jpg | chain
+ILSVRC2012_val_777.jpg | refrigerator, icebox
+ILSVRC2012_val_781.jpg | church, church building
+ILSVRC2012_val_782.jpg | snowplow, snowplough
+ILSVRC2012_val_784.jpg | snowplow, snowplough
+ILSVRC2012_val_785.jpg | tripod
+ILSVRC2012_val_786.jpg | snowplow, snowplough
+ILSVRC2012_val_788.jpg | barn
+ILSVRC2012_val_789.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_790.jpg | snowplow, snowplough
+ILSVRC2012_val_793.jpg | snowplow, snowplough
+ILSVRC2012_val_798.jpg | church, church building
+ILSVRC2012_val_800.jpg | tripod
+ILSVRC2012_val_801.jpg | snowplow, snowplough
+ILSVRC2012_val_802.jpg | tripod
+ILSVRC2012_val_805.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_808.jpg | church, church building
+ILSVRC2012_val_809.jpg | snowplow, snowplough
+ILSVRC2012_val_811.jpg | church, church building
+ILSVRC2012_val_812.jpg | barn
+ILSVRC2012_val_819.jpg | tripod
+ILSVRC2012_val_820.jpg | church, church building
+ILSVRC2012_val_821.jpg | church, church building
+ILSVRC2012_val_823.jpg | snowplow, snowplough
+ILSVRC2012_val_827.jpg | snowplow, snowplough
+ILSVRC2012_val_833.jpg | snowplow, snowplough
+ILSVRC2012_val_837.jpg | tripod
+ILSVRC2012_val_838.jpg | snowplow, snowplough
+ILSVRC2012_val_839.jpg | tripod
+ILSVRC2012_val_842.jpg | snowplow, snowplough
+ILSVRC2012_val_845.jpg | tripod
+ILSVRC2012_val_846.jpg | church, church building
+ILSVRC2012_val_852.jpg | barn
+ILSVRC2012_val_854.jpg | church, church building
+ILSVRC2012_val_860.jpg | tripod
+ILSVRC2012_val_865.jpg | traffic light, traffic signal, stoplight
+ILSVRC2012_val_866.jpg | snowplow, snowplough
+ILSVRC2012_val_867.jpg | tripod
+ILSVRC2012_val_868.jpg | barn
+ILSVRC2012_val_873.jpg | snowplow, snowplough
+ILSVRC2012_val_877.jpg | water bottle
+ILSVRC2012_val_879.jpg | lemon
+ILSVRC2012_val_884.jpg | tripod
+ILSVRC2012_val_889.jpg | tripod
+ILSVRC2012_val_890.jpg | ski
+ILSVRC2012_val_892.jpg | church, church building
+ILSVRC2012_val_896.jpg | snowplow, snowplough
+ILSVRC2012_val_897.jpg | church, church building
+ILSVRC2012_val_899.jpg | church, church building
+ILSVRC2012_val_901.jpg | analog clock
+ILSVRC2012_val_902.jpg | church, church building
+ILSVRC2012_val_904.jpg | barn
+ILSVRC2012_val_905.jpg | snowplow, snowplough
+ILSVRC2012_val_909.jpg | snowplow, snowplough
+ILSVRC2012_val_913.jpg | tripod
+ILSVRC2012_val_918.jpg | church, church building
+ILSVRC2012_val_920.jpg | banana
+ILSVRC2012_val_925.jpg | church, church building
+ILSVRC2012_val_927.jpg | snowplow, snowplough
+ILSVRC2012_val_928.jpg | ski
+ILSVRC2012_val_930.jpg | water bottle
+ILSVRC2012_val_931.jpg | snowplow, snowplough
+ILSVRC2012_val_936.jpg | church, church building
+ILSVRC2012_val_938.jpg | church, church building
+ILSVRC2012_val_939.jpg | stage
+ILSVRC2012_val_941.jpg | cello, violoncello
+ILSVRC2012_val_942.jpg | snowplow, snowplough
+ILSVRC2012_val_944.jpg | church, church building
+ILSVRC2012_val_947.jpg | tripod
+ILSVRC2012_val_954.jpg | snowplow, snowplough
+ILSVRC2012_val_955.jpg | snowplow, snowplough
+ILSVRC2012_val_956.jpg | water bottle
+ILSVRC2012_val_959.jpg | snowplow, snowplough
+ILSVRC2012_val_961.jpg | snowplow, snowplough
+ILSVRC2012_val_967.jpg | church, church building
+ILSVRC2012_val_971.jpg | barn
+ILSVRC2012_val_973.jpg | snowplow, snowplough
+ILSVRC2012_val_974.jpg | tripod
+ILSVRC2012_val_976.jpg | snowplow, snowplough
+ILSVRC2012_val_979.jpg | snowplow, snowplough
+ILSVRC2012_val_981.jpg | church, church building
+ILSVRC2012_val_983.jpg | tripod
+ILSVRC2012_val_984.jpg | tripod
+ILSVRC2012_val_994.jpg | stage
+ILSVRC2012_val_995.jpg | cello, violoncello
+ILSVRC2012_val_996.jpg | traffic light, traffic signal, stoplight

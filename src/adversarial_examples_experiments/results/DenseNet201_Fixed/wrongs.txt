@@ -1,0 +1,616 @@
+ILSVRC2012_val_1.jpg | lens cap, lens cover | web site, website, internet site, site
+ILSVRC2012_val_2.jpg | matchstick | barn
+ILSVRC2012_val_3.jpg | matchstick | spotlight, spot
+ILSVRC2012_val_7.jpg | church, church building | barn
+ILSVRC2012_val_11.jpg | stage | cup
+ILSVRC2012_val_12.jpg | ski | church, church building
+ILSVRC2012_val_14.jpg | barn | park bench
+ILSVRC2012_val_15.jpg | space shuttle | conch
+ILSVRC2012_val_16.jpg | church, church building | tripod
+ILSVRC2012_val_17.jpg | church, church building | stage
+ILSVRC2012_val_18.jpg | folding chair | French horn, horn
+ILSVRC2012_val_19.jpg | lemon | snowplow, snowplough
+ILSVRC2012_val_21.jpg | bubble | umbrella
+ILSVRC2012_val_22.jpg | tripod | barn
+ILSVRC2012_val_23.jpg | analog clock | school bus
+ILSVRC2012_val_24.jpg | ski | chain
+ILSVRC2012_val_25.jpg | syringe | water bottle
+ILSVRC2012_val_28.jpg | tripod | church, church building
+ILSVRC2012_val_29.jpg | church, church building | analog clock
+ILSVRC2012_val_30.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_31.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_32.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_33.jpg | seashore, coast, seacoast, sea-coast | tripod
+ILSVRC2012_val_34.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_35.jpg | tripod | conch
+ILSVRC2012_val_38.jpg | barn | cup
+ILSVRC2012_val_39.jpg | barn | umbrella
+ILSVRC2012_val_40.jpg | barn | web site, website, internet site, site
+ILSVRC2012_val_41.jpg | snowplow, snowplough | church, church building
+ILSVRC2012_val_42.jpg | snowplow, snowplough | cello, violoncello
+ILSVRC2012_val_43.jpg | stage | rule, ruler
+ILSVRC2012_val_45.jpg | lighter, light, igniter, ignitor | tripod
+ILSVRC2012_val_47.jpg | barn | water tower
+ILSVRC2012_val_48.jpg | matchstick | church, church building
+ILSVRC2012_val_49.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_50.jpg | tripod | barn
+ILSVRC2012_val_51.jpg | church, church building | barn
+ILSVRC2012_val_52.jpg | screen, CRT screen | analog clock
+ILSVRC2012_val_53.jpg | matchstick | lemon
+ILSVRC2012_val_54.jpg | lighter, light, igniter, ignitor | slot, one-armed bandit
+ILSVRC2012_val_55.jpg | traffic light, traffic signal, stoplight | matchstick
+ILSVRC2012_val_56.jpg | church, church building | ski
+ILSVRC2012_val_57.jpg | tripod | ski
+ILSVRC2012_val_58.jpg | bubble | sea urchin
+ILSVRC2012_val_59.jpg | tripod | church, church building
+ILSVRC2012_val_60.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_62.jpg | fountain | church, church building
+ILSVRC2012_val_63.jpg | ski | lampshade, lamp shade
+ILSVRC2012_val_64.jpg | traffic light, traffic signal, stoplight | drum, membranophone, tympan
+ILSVRC2012_val_66.jpg | snowplow, snowplough | chain saw, chainsaw
+ILSVRC2012_val_68.jpg | conch | tripod
+ILSVRC2012_val_72.jpg | ski | cello, violoncello
+ILSVRC2012_val_73.jpg | matchstick | folding chair
+ILSVRC2012_val_76.jpg | tripod | chain
+ILSVRC2012_val_77.jpg | bubble | perfume, essence
+ILSVRC2012_val_78.jpg | fountain | tripod
+ILSVRC2012_val_79.jpg | tripod | stage
+ILSVRC2012_val_80.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_81.jpg | beer bottle | web site, website, internet site, site
+ILSVRC2012_val_82.jpg | traffic light, traffic signal, stoplight | tripod
+ILSVRC2012_val_83.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_84.jpg | bubble | drum, membranophone, tympan
+ILSVRC2012_val_85.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_86.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_92.jpg | church, church building | ski
+ILSVRC2012_val_94.jpg | matchstick | folding chair
+ILSVRC2012_val_95.jpg | tripod | church, church building
+ILSVRC2012_val_96.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_97.jpg | spotlight, spot | bubble
+ILSVRC2012_val_99.jpg | tripod | cello, violoncello
+ILSVRC2012_val_100.jpg | syringe | starfish, sea star
+ILSVRC2012_val_103.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | snowplow, snowplough
+ILSVRC2012_val_107.jpg | tripod | shopping basket
+ILSVRC2012_val_112.jpg | ski | church, church building
+ILSVRC2012_val_114.jpg | binoculars, field glasses, opera glasses | snowplow, snowplough
+ILSVRC2012_val_117.jpg | park bench | barn
+ILSVRC2012_val_118.jpg | radio, wireless | folding chair
+ILSVRC2012_val_119.jpg | lemon | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_120.jpg | umbrella | starfish, sea star
+ILSVRC2012_val_121.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_123.jpg | analog clock | traffic light, traffic signal, stoplight
+ILSVRC2012_val_124.jpg | espresso | cup
+ILSVRC2012_val_125.jpg | church, church building | tripod
+ILSVRC2012_val_127.jpg | bubble | starfish, sea star
+ILSVRC2012_val_128.jpg | tripod | matchstick
+ILSVRC2012_val_131.jpg | tripod | conch
+ILSVRC2012_val_133.jpg | stage | tennis ball
+ILSVRC2012_val_134.jpg | bubble | pinwheel
+ILSVRC2012_val_135.jpg | church, church building | ski
+ILSVRC2012_val_136.jpg | umbrella | gondola
+ILSVRC2012_val_137.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_138.jpg | fountain | stage
+ILSVRC2012_val_139.jpg | church, church building | cello, violoncello
+ILSVRC2012_val_141.jpg | ski | cello, violoncello
+ILSVRC2012_val_142.jpg | fountain | drum, membranophone, tympan
+ILSVRC2012_val_143.jpg | web site, website, internet site, site | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_144.jpg | tripod | conch
+ILSVRC2012_val_145.jpg | tripod | web site, website, internet site, site
+ILSVRC2012_val_146.jpg | church, church building | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_147.jpg | water bottle | tripod
+ILSVRC2012_val_149.jpg | barn | cello, violoncello
+ILSVRC2012_val_150.jpg | analog clock | tripod
+ILSVRC2012_val_151.jpg | tripod | park bench
+ILSVRC2012_val_152.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_153.jpg | snowplow, snowplough | church, church building
+ILSVRC2012_val_155.jpg | ski | chain saw, chainsaw
+ILSVRC2012_val_156.jpg | tripod | conch
+ILSVRC2012_val_157.jpg | matchstick | church, church building
+ILSVRC2012_val_158.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | cello, violoncello
+ILSVRC2012_val_160.jpg | grocery store, grocery, food market, market | tripod
+ILSVRC2012_val_161.jpg | ski | church, church building
+ILSVRC2012_val_162.jpg | church, church building | barn
+ILSVRC2012_val_163.jpg | loupe, jeweler's loupe | matchstick
+ILSVRC2012_val_164.jpg | church, church building | barn
+ILSVRC2012_val_166.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_167.jpg | cello, violoncello | church, church building
+ILSVRC2012_val_168.jpg | web site, website, internet site, site | oboe, hautboy, hautbois
+ILSVRC2012_val_170.jpg | tripod | church, church building
+ILSVRC2012_val_171.jpg | tile roof | church, church building
+ILSVRC2012_val_174.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_175.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_176.jpg | tripod | conch
+ILSVRC2012_val_177.jpg | bubble | web site, website, internet site, site
+ILSVRC2012_val_185.jpg | park bench | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_187.jpg | church, church building | ski
+ILSVRC2012_val_190.jpg | web site, website, internet site, site | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_192.jpg | church, church building | analog clock
+ILSVRC2012_val_193.jpg | barn | folding chair
+ILSVRC2012_val_195.jpg | church, church building | ski
+ILSVRC2012_val_196.jpg | snowplow, snowplough | tripod
+ILSVRC2012_val_199.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_201.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_202.jpg | park bench | barn
+ILSVRC2012_val_203.jpg | bubble | pinwheel
+ILSVRC2012_val_204.jpg | barn | ski
+ILSVRC2012_val_206.jpg | ski | park bench
+ILSVRC2012_val_207.jpg | bubble | starfish, sea star
+ILSVRC2012_val_209.jpg | barn | church, church building
+ILSVRC2012_val_210.jpg | cloak | cello, violoncello
+ILSVRC2012_val_211.jpg | school bus | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_212.jpg | analog clock | church, church building
+ILSVRC2012_val_213.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_214.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_216.jpg | analog clock | cup
+ILSVRC2012_val_218.jpg | tripod | conch
+ILSVRC2012_val_219.jpg | church, church building | barn
+ILSVRC2012_val_220.jpg | traffic light, traffic signal, stoplight | tripod
+ILSVRC2012_val_223.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | snowplow, snowplough
+ILSVRC2012_val_224.jpg | mountain tent | lemon
+ILSVRC2012_val_227.jpg | matchstick | church, church building
+ILSVRC2012_val_229.jpg | conch | barn
+ILSVRC2012_val_230.jpg | snowplow, snowplough | spotlight, spot
+ILSVRC2012_val_233.jpg | web site, website, internet site, site | tripod
+ILSVRC2012_val_234.jpg | barn | ski
+ILSVRC2012_val_237.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_238.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_239.jpg | lighter, light, igniter, ignitor | grocery store, grocery, food market, market
+ILSVRC2012_val_242.jpg | bubble | rule, ruler
+ILSVRC2012_val_245.jpg | matchstick | web site, website, internet site, site
+ILSVRC2012_val_246.jpg | tripod | church, church building
+ILSVRC2012_val_249.jpg | chainlink fence | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_252.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | lemon
+ILSVRC2012_val_255.jpg | tripod | cello, violoncello
+ILSVRC2012_val_256.jpg | water bottle | church, church building
+ILSVRC2012_val_258.jpg | tripod | starfish, sea star
+ILSVRC2012_val_259.jpg | church, church building | violin, fiddle
+ILSVRC2012_val_260.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_261.jpg | mountain tent | snowplow, snowplough
+ILSVRC2012_val_262.jpg | church, church building | chain saw, chainsaw
+ILSVRC2012_val_264.jpg | ski | analog clock
+ILSVRC2012_val_265.jpg | matchstick | mousetrap
+ILSVRC2012_val_267.jpg | tripod | ski
+ILSVRC2012_val_269.jpg | church, church building | ski
+ILSVRC2012_val_270.jpg | bubble | lemon
+ILSVRC2012_val_276.jpg | traffic light, traffic signal, stoplight | ski
+ILSVRC2012_val_277.jpg | matchstick | conch
+ILSVRC2012_val_278.jpg | analog clock | traffic light, traffic signal, stoplight
+ILSVRC2012_val_279.jpg | bubble | spotlight, spot
+ILSVRC2012_val_280.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_282.jpg | gown | refrigerator, icebox
+ILSVRC2012_val_283.jpg | sunglass | stage
+ILSVRC2012_val_288.jpg | matchstick | church, church building
+ILSVRC2012_val_289.jpg | barn | park bench
+ILSVRC2012_val_290.jpg | church, church building | ski
+ILSVRC2012_val_291.jpg | church, church building | stole
+ILSVRC2012_val_292.jpg | sea urchin | lemon
+ILSVRC2012_val_293.jpg | fountain | analog clock
+ILSVRC2012_val_294.jpg | analog clock | lampshade, lamp shade
+ILSVRC2012_val_296.jpg | park bench | cello, violoncello
+ILSVRC2012_val_297.jpg | ski | tripod
+ILSVRC2012_val_299.jpg | ski | spotlight, spot
+ILSVRC2012_val_300.jpg | tripod | stage
+ILSVRC2012_val_301.jpg | pop bottle, soda bottle | dome
+ILSVRC2012_val_302.jpg | tripod | ski
+ILSVRC2012_val_303.jpg | conch | spotlight, spot
+ILSVRC2012_val_307.jpg | matchstick | stage
+ILSVRC2012_val_312.jpg | web site, website, internet site, site | folding chair
+ILSVRC2012_val_316.jpg | conch | cup
+ILSVRC2012_val_317.jpg | lighter, light, igniter, ignitor | analog clock
+ILSVRC2012_val_319.jpg | coil, spiral, volute, whorl, helix | matchstick
+ILSVRC2012_val_320.jpg | spotlight, spot | church, church building
+ILSVRC2012_val_323.jpg | grocery store, grocery, food market, market | bubble
+ILSVRC2012_val_324.jpg | analog clock | conch
+ILSVRC2012_val_326.jpg | church, church building | ski
+ILSVRC2012_val_327.jpg | park bench | sea urchin
+ILSVRC2012_val_329.jpg | church, church building | tripod
+ILSVRC2012_val_331.jpg | snowplow, snowplough | chain
+ILSVRC2012_val_332.jpg | spotlight, spot | traffic light, traffic signal, stoplight
+ILSVRC2012_val_333.jpg | ski | barn
+ILSVRC2012_val_334.jpg | barn | digital clock
+ILSVRC2012_val_336.jpg | web site, website, internet site, site | analog clock
+ILSVRC2012_val_337.jpg | conch | lemon
+ILSVRC2012_val_338.jpg | snowplow, snowplough | lemon
+ILSVRC2012_val_339.jpg | church, church building | ski
+ILSVRC2012_val_340.jpg | tripod | church, church building
+ILSVRC2012_val_343.jpg | fountain | church, church building
+ILSVRC2012_val_344.jpg | lighter, light, igniter, ignitor | tripod
+ILSVRC2012_val_346.jpg | conch | matchstick
+ILSVRC2012_val_348.jpg | banana | quilt, comforter, comfort, puff
+ILSVRC2012_val_349.jpg | coil, spiral, volute, whorl, helix | stage
+ILSVRC2012_val_353.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_354.jpg | web site, website, internet site, site | matchstick
+ILSVRC2012_val_356.jpg | analog clock | church, church building
+ILSVRC2012_val_357.jpg | barn | park bench
+ILSVRC2012_val_358.jpg | fountain | barn
+ILSVRC2012_val_361.jpg | tripod | umbrella
+ILSVRC2012_val_363.jpg | tripod | drum, membranophone, tympan
+ILSVRC2012_val_365.jpg | barn | folding chair
+ILSVRC2012_val_366.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_367.jpg | tripod | church, church building
+ILSVRC2012_val_368.jpg | bubble | rule, ruler
+ILSVRC2012_val_370.jpg | church, church building | ski
+ILSVRC2012_val_371.jpg | buckeye, horse chestnut, conker | hay
+ILSVRC2012_val_372.jpg | church, church building | traffic light, traffic signal, stoplight
+ILSVRC2012_val_373.jpg | church, church building | chainlink fence
+ILSVRC2012_val_374.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_375.jpg | ski | tripod
+ILSVRC2012_val_376.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_378.jpg | church, church building | spotlight, spot
+ILSVRC2012_val_379.jpg | spotlight, spot | analog clock
+ILSVRC2012_val_385.jpg | church, church building | barn
+ILSVRC2012_val_386.jpg | umbrella | folding chair
+ILSVRC2012_val_390.jpg | traffic light, traffic signal, stoplight | drum, membranophone, tympan
+ILSVRC2012_val_391.jpg | stage | analog clock
+ILSVRC2012_val_392.jpg | snowplow, snowplough | cello, violoncello
+ILSVRC2012_val_394.jpg | fountain | tripod
+ILSVRC2012_val_395.jpg | matchstick | fountain
+ILSVRC2012_val_396.jpg | church, church building | ski
+ILSVRC2012_val_397.jpg | church, church building | drum, membranophone, tympan
+ILSVRC2012_val_398.jpg | pinwheel | folding chair
+ILSVRC2012_val_399.jpg | web site, website, internet site, site | tripod
+ILSVRC2012_val_400.jpg | church, church building | spotlight, spot
+ILSVRC2012_val_401.jpg | conch | binoculars, field glasses, opera glasses
+ILSVRC2012_val_402.jpg | matchstick | chainlink fence
+ILSVRC2012_val_403.jpg | tripod | barn
+ILSVRC2012_val_405.jpg | bubble | umbrella
+ILSVRC2012_val_407.jpg | analog clock | tripod
+ILSVRC2012_val_408.jpg | jellyfish | drum, membranophone, tympan
+ILSVRC2012_val_409.jpg | screw | tripod
+ILSVRC2012_val_411.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_412.jpg | web site, website, internet site, site | church, church building
+ILSVRC2012_val_416.jpg | spotlight, spot | lemon
+ILSVRC2012_val_417.jpg | cup | matchstick
+ILSVRC2012_val_418.jpg | barn | cello, violoncello
+ILSVRC2012_val_421.jpg | church, church building | conch
+ILSVRC2012_val_423.jpg | barn | church, church building
+ILSVRC2012_val_424.jpg | bubble | matchstick
+ILSVRC2012_val_425.jpg | church, church building | traffic light, traffic signal, stoplight
+ILSVRC2012_val_427.jpg | web site, website, internet site, site | analog clock
+ILSVRC2012_val_429.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_433.jpg | church, church building | conch
+ILSVRC2012_val_436.jpg | space shuttle | web site, website, internet site, site
+ILSVRC2012_val_437.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_438.jpg | stage | traffic light, traffic signal, stoplight
+ILSVRC2012_val_441.jpg | stage | spotlight, spot
+ILSVRC2012_val_442.jpg | church, church building | barn
+ILSVRC2012_val_443.jpg | conch | theater curtain, theatre curtain
+ILSVRC2012_val_444.jpg | tripod | dome
+ILSVRC2012_val_446.jpg | umbrella | pinwheel
+ILSVRC2012_val_448.jpg | church, church building | barn
+ILSVRC2012_val_452.jpg | church, church building | barn
+ILSVRC2012_val_453.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_454.jpg | park bench | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_456.jpg | stage | analog clock
+ILSVRC2012_val_457.jpg | matchstick | church, church building
+ILSVRC2012_val_458.jpg | spotlight, spot | church, church building
+ILSVRC2012_val_459.jpg | ski | cello, violoncello
+ILSVRC2012_val_460.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_463.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_464.jpg | tripod | lemon
+ILSVRC2012_val_465.jpg | church, church building | ski
+ILSVRC2012_val_468.jpg | tripod | cello, violoncello
+ILSVRC2012_val_469.jpg | park bench | tripod
+ILSVRC2012_val_470.jpg | proboscis monkey, Nasalis larvatus | tripod
+ILSVRC2012_val_472.jpg | conch | ski
+ILSVRC2012_val_473.jpg | park bench | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_475.jpg | fountain | lemon
+ILSVRC2012_val_476.jpg | banana | sea urchin
+ILSVRC2012_val_480.jpg | fountain | spotlight, spot
+ILSVRC2012_val_484.jpg | water bottle | fountain
+ILSVRC2012_val_485.jpg | tripod | conch
+ILSVRC2012_val_486.jpg | church, church building | table lamp
+ILSVRC2012_val_487.jpg | ski | church, church building
+ILSVRC2012_val_489.jpg | analog clock | mousetrap
+ILSVRC2012_val_491.jpg | web site, website, internet site, site | church, church building
+ILSVRC2012_val_492.jpg | church, church building | park bench
+ILSVRC2012_val_493.jpg | spotlight, spot | church, church building
+ILSVRC2012_val_495.jpg | church, church building | barn
+ILSVRC2012_val_497.jpg | analog clock | web site, website, internet site, site
+ILSVRC2012_val_498.jpg | web site, website, internet site, site | spotlight, spot
+ILSVRC2012_val_502.jpg | bubble | pinwheel
+ILSVRC2012_val_505.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_507.jpg | church, church building | tripod
+ILSVRC2012_val_508.jpg | snowplow, snowplough | barn
+ILSVRC2012_val_510.jpg | stage | traffic light, traffic signal, stoplight
+ILSVRC2012_val_511.jpg | lighter, light, igniter, ignitor | church, church building
+ILSVRC2012_val_512.jpg | snowplow, snowplough | park bench
+ILSVRC2012_val_514.jpg | barn | cello, violoncello
+ILSVRC2012_val_515.jpg | church, church building | barn
+ILSVRC2012_val_516.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_519.jpg | chain | cello, violoncello
+ILSVRC2012_val_523.jpg | grocery store, grocery, food market, market | rule, ruler
+ILSVRC2012_val_525.jpg | lemon | cup
+ILSVRC2012_val_528.jpg | spotlight, spot | lemon
+ILSVRC2012_val_529.jpg | ski | folding chair
+ILSVRC2012_val_530.jpg | tripod | barn
+ILSVRC2012_val_531.jpg | lighter, light, igniter, ignitor | analog clock
+ILSVRC2012_val_532.jpg | barn | cello, violoncello
+ILSVRC2012_val_533.jpg | spotlight, spot | church, church building
+ILSVRC2012_val_535.jpg | snowplow, snowplough | church, church building
+ILSVRC2012_val_538.jpg | church, church building | park bench
+ILSVRC2012_val_539.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_540.jpg | web site, website, internet site, site | hourglass
+ILSVRC2012_val_541.jpg | analog clock | tripod
+ILSVRC2012_val_543.jpg | space shuttle | church, church building
+ILSVRC2012_val_544.jpg | barn | snowmobile
+ILSVRC2012_val_545.jpg | barn | folding chair
+ILSVRC2012_val_546.jpg | traffic light, traffic signal, stoplight | drum, membranophone, tympan
+ILSVRC2012_val_548.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | folding chair
+ILSVRC2012_val_553.jpg | spotlight, spot | rule, ruler
+ILSVRC2012_val_554.jpg | pinwheel | park bench
+ILSVRC2012_val_555.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_556.jpg | tripod | church, church building
+ILSVRC2012_val_557.jpg | bald eagle, American eagle, Haliaeetus leucocephalus | refrigerator, icebox
+ILSVRC2012_val_560.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_561.jpg | conch | barn
+ILSVRC2012_val_562.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_564.jpg | barn | table lamp
+ILSVRC2012_val_566.jpg | snowplow, snowplough | cello, violoncello
+ILSVRC2012_val_567.jpg | snowplow, snowplough | church, church building
+ILSVRC2012_val_569.jpg | barn | web site, website, internet site, site
+ILSVRC2012_val_570.jpg | snowplow, snowplough | rule, ruler
+ILSVRC2012_val_571.jpg | snowplow, snowplough | lemon
+ILSVRC2012_val_572.jpg | analog clock | church, church building
+ILSVRC2012_val_573.jpg | ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus | lemon
+ILSVRC2012_val_576.jpg | bubble | starfish, sea star
+ILSVRC2012_val_577.jpg | grocery store, grocery, food market, market | rule, ruler
+ILSVRC2012_val_579.jpg | church, church building | spotlight, spot
+ILSVRC2012_val_580.jpg | tripod | lighter, light, igniter, ignitor
+ILSVRC2012_val_583.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_585.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_586.jpg | church, church building | barn
+ILSVRC2012_val_588.jpg | tripod | matchstick
+ILSVRC2012_val_589.jpg | tripod | church, church building
+ILSVRC2012_val_590.jpg | dome | lemon
+ILSVRC2012_val_591.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_592.jpg | fountain | umbrella
+ILSVRC2012_val_594.jpg | church, church building | barn
+ILSVRC2012_val_598.jpg | fountain | barn
+ILSVRC2012_val_601.jpg | tripod | conch
+ILSVRC2012_val_602.jpg | fountain | analog clock
+ILSVRC2012_val_603.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_604.jpg | pinwheel | rule, ruler
+ILSVRC2012_val_605.jpg | water bottle | conch
+ILSVRC2012_val_608.jpg | church, church building | web site, website, internet site, site
+ILSVRC2012_val_610.jpg | web site, website, internet site, site | drum, membranophone, tympan
+ILSVRC2012_val_611.jpg | tripod | conch
+ILSVRC2012_val_612.jpg | matchstick | church, church building
+ILSVRC2012_val_613.jpg | matchstick | ski
+ILSVRC2012_val_614.jpg | ski | church, church building
+ILSVRC2012_val_617.jpg | snowplow, snowplough | church, church building
+ILSVRC2012_val_618.jpg | stage | traffic light, traffic signal, stoplight
+ILSVRC2012_val_619.jpg | tripod | lemon
+ILSVRC2012_val_621.jpg | grocery store, grocery, food market, market | barn
+ILSVRC2012_val_622.jpg | binoculars, field glasses, opera glasses | shopping basket
+ILSVRC2012_val_623.jpg | dial telephone, dial phone | grocery store, grocery, food market, market
+ILSVRC2012_val_624.jpg | park bench | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_625.jpg | church, church building | traffic light, traffic signal, stoplight
+ILSVRC2012_val_628.jpg | umbrella | tile roof
+ILSVRC2012_val_629.jpg | cup | lemon
+ILSVRC2012_val_630.jpg | web site, website, internet site, site | drum, membranophone, tympan
+ILSVRC2012_val_631.jpg | analog clock | tripod
+ILSVRC2012_val_632.jpg | church, church building | ski
+ILSVRC2012_val_634.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_635.jpg | tripod | barn
+ILSVRC2012_val_636.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_637.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | snowplow, snowplough
+ILSVRC2012_val_638.jpg | church, church building | stage
+ILSVRC2012_val_639.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_640.jpg | lemon | cello, violoncello
+ILSVRC2012_val_641.jpg | chain saw, chainsaw | snowplow, snowplough
+ILSVRC2012_val_642.jpg | spotlight, spot | analog clock
+ILSVRC2012_val_643.jpg | tripod | sea urchin
+ILSVRC2012_val_644.jpg | spotlight, spot | conch
+ILSVRC2012_val_647.jpg | barn | church, church building
+ILSVRC2012_val_651.jpg | oboe, hautboy, hautbois | lemon
+ILSVRC2012_val_652.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_655.jpg | banana | tile roof
+ILSVRC2012_val_659.jpg | barn | spotlight, spot
+ILSVRC2012_val_661.jpg | tripod | church, church building
+ILSVRC2012_val_662.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_664.jpg | ski | snowplow, snowplough
+ILSVRC2012_val_665.jpg | spotlight, spot | tripod
+ILSVRC2012_val_666.jpg | barn | church, church building
+ILSVRC2012_val_667.jpg | matchstick | shopping basket
+ILSVRC2012_val_671.jpg | barn | church, church building
+ILSVRC2012_val_673.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_674.jpg | drum, membranophone, tympan | conch
+ILSVRC2012_val_675.jpg | bubble | umbrella
+ILSVRC2012_val_676.jpg | snowplow, snowplough | barn
+ILSVRC2012_val_680.jpg | church, church building | spotlight, spot
+ILSVRC2012_val_682.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_684.jpg | tripod | church, church building
+ILSVRC2012_val_685.jpg | spotlight, spot | tripod
+ILSVRC2012_val_687.jpg | barn | ski
+ILSVRC2012_val_689.jpg | bubble | spotlight, spot
+ILSVRC2012_val_690.jpg | fountain | umbrella
+ILSVRC2012_val_691.jpg | ski | traffic light, traffic signal, stoplight
+ILSVRC2012_val_692.jpg | seashore, coast, seacoast, sea-coast | bubble
+ILSVRC2012_val_695.jpg | spotlight, spot | church, church building
+ILSVRC2012_val_696.jpg | bubble | pinwheel
+ILSVRC2012_val_697.jpg | web site, website, internet site, site | mousetrap
+ILSVRC2012_val_701.jpg | church, church building | analog clock
+ILSVRC2012_val_702.jpg | church, church building | barn
+ILSVRC2012_val_703.jpg | stole | lemon
+ILSVRC2012_val_704.jpg | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin | cello, violoncello
+ILSVRC2012_val_705.jpg | banana | grocery store, grocery, food market, market
+ILSVRC2012_val_708.jpg | church, church building | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_709.jpg | church, church building | ski
+ILSVRC2012_val_715.jpg | web site, website, internet site, site | barn
+ILSVRC2012_val_716.jpg | ski | church, church building
+ILSVRC2012_val_718.jpg | cloak | church, church building
+ILSVRC2012_val_719.jpg | church, church building | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_721.jpg | ski | gown
+ILSVRC2012_val_722.jpg | snowplow, snowplough | cello, violoncello
+ILSVRC2012_val_723.jpg | starfish, sea star | pinwheel
+ILSVRC2012_val_724.jpg | conch | barn
+ILSVRC2012_val_725.jpg | web site, website, internet site, site | stage
+ILSVRC2012_val_726.jpg | snowplow, snowplough | lemon
+ILSVRC2012_val_727.jpg | barn | church, church building
+ILSVRC2012_val_730.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_731.jpg | water bottle | pinwheel
+ILSVRC2012_val_732.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_733.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_736.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_738.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_739.jpg | church, church building | barn
+ILSVRC2012_val_740.jpg | church, church building | spotlight, spot
+ILSVRC2012_val_742.jpg | traffic light, traffic signal, stoplight | drum, membranophone, tympan
+ILSVRC2012_val_744.jpg | school bus | snowplow, snowplough
+ILSVRC2012_val_745.jpg | conch | barn
+ILSVRC2012_val_746.jpg | tripod | ski
+ILSVRC2012_val_747.jpg | school bus | park bench
+ILSVRC2012_val_748.jpg | bubble | analog clock
+ILSVRC2012_val_749.jpg | conch | barn
+ILSVRC2012_val_751.jpg | tripod | web site, website, internet site, site
+ILSVRC2012_val_752.jpg | ski | snowplow, snowplough
+ILSVRC2012_val_755.jpg | conch | chainlink fence
+ILSVRC2012_val_756.jpg | spotlight, spot | tripod
+ILSVRC2012_val_757.jpg | church, church building | ski
+ILSVRC2012_val_760.jpg | chain | cello, violoncello
+ILSVRC2012_val_761.jpg | stage | maillot
+ILSVRC2012_val_766.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_769.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_770.jpg | tripod | conch
+ILSVRC2012_val_773.jpg | conch | folding chair
+ILSVRC2012_val_775.jpg | tripod | analog clock
+ILSVRC2012_val_778.jpg | church, church building | barn
+ILSVRC2012_val_779.jpg | fountain | church, church building
+ILSVRC2012_val_780.jpg | church, church building | barn
+ILSVRC2012_val_783.jpg | ski | snowplow, snowplough
+ILSVRC2012_val_787.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_791.jpg | syringe | lampshade, lamp shade
+ILSVRC2012_val_792.jpg | spotlight, spot | church, church building
+ILSVRC2012_val_794.jpg | fountain | tripod
+ILSVRC2012_val_795.jpg | tripod | analog clock
+ILSVRC2012_val_796.jpg | ski | church, church building
+ILSVRC2012_val_797.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_799.jpg | tripod | conch
+ILSVRC2012_val_803.jpg | snowplow, snowplough | cello, violoncello
+ILSVRC2012_val_804.jpg | cello, violoncello | chain
+ILSVRC2012_val_806.jpg | conch | folding chair
+ILSVRC2012_val_807.jpg | fountain | binder, ring-binder
+ILSVRC2012_val_810.jpg | tripod | analog clock
+ILSVRC2012_val_813.jpg | barn | park bench
+ILSVRC2012_val_814.jpg | grocery store, grocery, food market, market | church, church building
+ILSVRC2012_val_815.jpg | chain saw, chainsaw | ski
+ILSVRC2012_val_816.jpg | tripod | barn
+ILSVRC2012_val_817.jpg | spotlight, spot | rule, ruler
+ILSVRC2012_val_818.jpg | traffic light, traffic signal, stoplight | drum, membranophone, tympan
+ILSVRC2012_val_822.jpg | bubble | perfume, essence
+ILSVRC2012_val_824.jpg | tripod | barn
+ILSVRC2012_val_825.jpg | starfish, sea star | pinwheel
+ILSVRC2012_val_826.jpg | matchstick | church, church building
+ILSVRC2012_val_828.jpg | barn | park bench
+ILSVRC2012_val_829.jpg | barn | snowplow, snowplough
+ILSVRC2012_val_830.jpg | web site, website, internet site, site | cello, violoncello
+ILSVRC2012_val_831.jpg | analog clock | church, church building
+ILSVRC2012_val_832.jpg | church, church building | lemon
+ILSVRC2012_val_834.jpg | sunglass | wine bottle
+ILSVRC2012_val_835.jpg | chain saw, chainsaw | tripod
+ILSVRC2012_val_836.jpg | chain saw, chainsaw | lemon
+ILSVRC2012_val_840.jpg | lemon | chainlink fence
+ILSVRC2012_val_841.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_843.jpg | barn | chain
+ILSVRC2012_val_844.jpg | spotlight, spot | park bench
+ILSVRC2012_val_847.jpg | ski | tripod
+ILSVRC2012_val_848.jpg | water bottle | lighter, light, igniter, ignitor
+ILSVRC2012_val_849.jpg | barn | chain
+ILSVRC2012_val_850.jpg | eggnog | lemon
+ILSVRC2012_val_851.jpg | barn | park bench
+ILSVRC2012_val_853.jpg | barn | snowmobile
+ILSVRC2012_val_855.jpg | snowplow, snowplough | cello, violoncello
+ILSVRC2012_val_856.jpg | tripod | church, church building
+ILSVRC2012_val_857.jpg | chain | spotlight, spot
+ILSVRC2012_val_858.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_859.jpg | barn | church, church building
+ILSVRC2012_val_861.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_862.jpg | snowplow, snowplough | barn
+ILSVRC2012_val_863.jpg | cellular telephone, cellular phone, cellphone, cell, mobile phone | web site, website, internet site, site
+ILSVRC2012_val_864.jpg | tripod | barn
+ILSVRC2012_val_869.jpg | fountain | analog clock
+ILSVRC2012_val_870.jpg | fountain | spotlight, spot
+ILSVRC2012_val_871.jpg | seashore, coast, seacoast, sea-coast | tripod
+ILSVRC2012_val_872.jpg | park bench | ski
+ILSVRC2012_val_874.jpg | screen, CRT screen | church, church building
+ILSVRC2012_val_875.jpg | bubble | analog clock
+ILSVRC2012_val_876.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_878.jpg | tripod | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_880.jpg | church, church building | traffic light, traffic signal, stoplight
+ILSVRC2012_val_881.jpg | bubble | pinwheel
+ILSVRC2012_val_882.jpg | spotlight, spot | drum, membranophone, tympan
+ILSVRC2012_val_883.jpg | church, church building | tripod
+ILSVRC2012_val_885.jpg | peacock | church, church building
+ILSVRC2012_val_886.jpg | barn | church, church building
+ILSVRC2012_val_887.jpg | analog clock | chain saw, chainsaw
+ILSVRC2012_val_888.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_891.jpg | tripod | ski
+ILSVRC2012_val_893.jpg | barn | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_894.jpg | conch | barn
+ILSVRC2012_val_895.jpg | church, church building | barn
+ILSVRC2012_val_898.jpg | traffic light, traffic signal, stoplight | church, church building
+ILSVRC2012_val_900.jpg | church, church building | park bench
+ILSVRC2012_val_903.jpg | park bench | ski
+ILSVRC2012_val_906.jpg | church, church building | barn
+ILSVRC2012_val_907.jpg | spotlight, spot | tripod
+ILSVRC2012_val_908.jpg | tripod | conch
+ILSVRC2012_val_910.jpg | matchstick | church, church building
+ILSVRC2012_val_911.jpg | tripod | water bottle
+ILSVRC2012_val_912.jpg | tripod | fountain
+ILSVRC2012_val_914.jpg | tripod | barn
+ILSVRC2012_val_915.jpg | barn | folding chair
+ILSVRC2012_val_916.jpg | traffic light, traffic signal, stoplight | analog clock
+ILSVRC2012_val_917.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_919.jpg | ski | analog clock
+ILSVRC2012_val_921.jpg | ski | church, church building
+ILSVRC2012_val_922.jpg | church, church building | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_923.jpg | tripod | barn
+ILSVRC2012_val_924.jpg | bubble | lampshade, lamp shade
+ILSVRC2012_val_926.jpg | drum, membranophone, tympan | traffic light, traffic signal, stoplight
+ILSVRC2012_val_929.jpg | scuba diver | pillow
+ILSVRC2012_val_932.jpg | ski | tripod
+ILSVRC2012_val_933.jpg | spotlight, spot | Granny Smith
+ILSVRC2012_val_934.jpg | spotlight, spot | tripod
+ILSVRC2012_val_935.jpg | fountain | matchstick
+ILSVRC2012_val_937.jpg | stage | traffic light, traffic signal, stoplight
+ILSVRC2012_val_940.jpg | drumstick | umbrella
+ILSVRC2012_val_943.jpg | web site, website, internet site, site | eggnog
+ILSVRC2012_val_945.jpg | pool table, billiard table, snooker table | matchstick
+ILSVRC2012_val_946.jpg | water bottle | pinwheel
+ILSVRC2012_val_948.jpg | sunglass | tripod
+ILSVRC2012_val_949.jpg | tripod | church, church building
+ILSVRC2012_val_950.jpg | matchstick | stage
+ILSVRC2012_val_951.jpg | tripod | barn
+ILSVRC2012_val_952.jpg | church, church building | rule, ruler
+ILSVRC2012_val_953.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_957.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_958.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_960.jpg | matchstick | tripod
+ILSVRC2012_val_962.jpg | traffic light, traffic signal, stoplight | chain saw, chainsaw
+ILSVRC2012_val_963.jpg | church, church building | park bench
+ILSVRC2012_val_964.jpg | church, church building | traffic light, traffic signal, stoplight
+ILSVRC2012_val_965.jpg | snowplow, snowplough | chain saw, chainsaw
+ILSVRC2012_val_966.jpg | barn | cello, violoncello
+ILSVRC2012_val_968.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_969.jpg | matchstick | chainlink fence
+ILSVRC2012_val_970.jpg | school bus | lampshade, lamp shade
+ILSVRC2012_val_972.jpg | stage | traffic light, traffic signal, stoplight
+ILSVRC2012_val_975.jpg | tripod | slot, one-armed bandit
+ILSVRC2012_val_977.jpg | snowplow, snowplough | ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+ILSVRC2012_val_978.jpg | church, church building | snowplow, snowplough
+ILSVRC2012_val_980.jpg | ski | tripod
+ILSVRC2012_val_982.jpg | tripod | snowplow, snowplough
+ILSVRC2012_val_985.jpg | ski | tripod
+ILSVRC2012_val_986.jpg | tripod | folding chair
+ILSVRC2012_val_987.jpg | church, church building | folding chair
+ILSVRC2012_val_988.jpg | matchstick | folding chair
+ILSVRC2012_val_989.jpg | paintbrush | drum, membranophone, tympan
+ILSVRC2012_val_990.jpg | snowplow, snowplough | ski
+ILSVRC2012_val_991.jpg | church, church building | starfish, sea star
+ILSVRC2012_val_992.jpg | traffic light, traffic signal, stoplight | spotlight, spot
+ILSVRC2012_val_993.jpg | church, church building | tripod
+ILSVRC2012_val_997.jpg | analog clock | rule, ruler
+ILSVRC2012_val_998.jpg | tripod | chainlink fence
+ILSVRC2012_val_999.jpg | church, church building | park bench
+ILSVRC2012_val_1000.jpg | tripod | barn

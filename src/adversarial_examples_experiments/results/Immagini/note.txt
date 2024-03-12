@@ -1,0 +1,3 @@
+La cartella fixed_params contiene le immagini alle quali è stata applicata la stessa sequenza di filtri con gli stessi parametri (indicati nel file fixed_params.txt)
+
+Per ognuna immagini nella cartella variable_params è stata applicata una differente sequenza di filtri con valori randomici dei parametri, riportae nel file variable_params.txt

@@ -1,0 +1,354 @@
+ILSVRC2012_val_1.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_4.jpg | bow | web site, website, internet site, site
+ILSVRC2012_val_6.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_8.jpg | cowboy boot | stopwatch, stop watch
+ILSVRC2012_val_9.jpg | cowboy boot | sunglass
+ILSVRC2012_val_14.jpg | cowboy boot | sunglass
+ILSVRC2012_val_15.jpg | chain | cowboy boot
+ILSVRC2012_val_18.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_20.jpg | chain | cowboy boot
+ILSVRC2012_val_25.jpg | beacon, lighthouse, beacon light, pharos | toy terrier
+ILSVRC2012_val_26.jpg | bloodhound, sleuthhound | Norwegian elkhound, elkhound
+ILSVRC2012_val_28.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_33.jpg | beacon, lighthouse, beacon light, pharos | stopwatch, stop watch
+ILSVRC2012_val_35.jpg | chain | sunglass
+ILSVRC2012_val_37.jpg | chain | cowboy boot
+ILSVRC2012_val_39.jpg | bloodhound, sleuthhound | cowboy boot
+ILSVRC2012_val_40.jpg | cowboy boot | chain
+ILSVRC2012_val_42.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_47.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_52.jpg | chain | cowboy boot
+ILSVRC2012_val_55.jpg | cowboy boot | chain
+ILSVRC2012_val_57.jpg | chain | cowboy boot
+ILSVRC2012_val_60.jpg | chain | cowboy boot
+ILSVRC2012_val_61.jpg | chain | sunglass
+ILSVRC2012_val_67.jpg | chain | analog clock
+ILSVRC2012_val_75.jpg | stopwatch, stop watch | ballpoint, ballpoint pen, ballpen, Biro
+ILSVRC2012_val_80.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_81.jpg | doormat, welcome mat | cowboy boot
+ILSVRC2012_val_85.jpg | chain | sunglass
+ILSVRC2012_val_86.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_90.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_94.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_101.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_102.jpg | chain | cowboy boot
+ILSVRC2012_val_108.jpg | bloodhound, sleuthhound | cowboy boot
+ILSVRC2012_val_109.jpg | cowboy boot | black-footed ferret, ferret, Mustela nigripes
+ILSVRC2012_val_111.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_113.jpg | chain | cowboy boot
+ILSVRC2012_val_116.jpg | tripod | dock, dockage, docking facility
+ILSVRC2012_val_120.jpg | web site, website, internet site, site | Sussex spaniel
+ILSVRC2012_val_121.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_128.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_130.jpg | cowboy boot | sunglass
+ILSVRC2012_val_131.jpg | chain | cowboy boot
+ILSVRC2012_val_132.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_136.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_138.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_139.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_147.jpg | chain | cowboy boot
+ILSVRC2012_val_148.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_150.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_152.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_153.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_155.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_162.jpg | beacon, lighthouse, beacon light, pharos | stopwatch, stop watch
+ILSVRC2012_val_165.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_166.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_168.jpg | beacon, lighthouse, beacon light, pharos | chain
+ILSVRC2012_val_177.jpg | beacon, lighthouse, beacon light, pharos | cowboy boot
+ILSVRC2012_val_178.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_185.jpg | sunglass | bloodhound, sleuthhound
+ILSVRC2012_val_188.jpg | chain | Sussex spaniel
+ILSVRC2012_val_190.jpg | bow | chain
+ILSVRC2012_val_195.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_200.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_207.jpg | cowboy boot | Sussex spaniel
+ILSVRC2012_val_209.jpg | pole | tripod
+ILSVRC2012_val_211.jpg | bloodhound, sleuthhound | cowboy boot
+ILSVRC2012_val_212.jpg | doormat, welcome mat | cowboy boot
+ILSVRC2012_val_213.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_216.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_217.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_218.jpg | web site, website, internet site, site | sunglass
+ILSVRC2012_val_220.jpg | chain | cowboy boot
+ILSVRC2012_val_222.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_223.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_226.jpg | horizontal bar, high bar | cowboy boot
+ILSVRC2012_val_228.jpg | safety pin | chain
+ILSVRC2012_val_230.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_233.jpg | chain | cowboy boot
+ILSVRC2012_val_240.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_241.jpg | chain | Sussex spaniel
+ILSVRC2012_val_247.jpg | chain | stopwatch, stop watch
+ILSVRC2012_val_250.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_253.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_254.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_265.jpg | chain | cowboy boot
+ILSVRC2012_val_266.jpg | beacon, lighthouse, beacon light, pharos | web site, website, internet site, site
+ILSVRC2012_val_275.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_277.jpg | chain | cowboy boot
+ILSVRC2012_val_278.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_281.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_283.jpg | chain | stopwatch, stop watch
+ILSVRC2012_val_289.jpg | doormat, welcome mat | cowboy boot
+ILSVRC2012_val_290.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_292.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_294.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_295.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_296.jpg | chain | cowboy boot
+ILSVRC2012_val_298.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_300.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_305.jpg | stopwatch, stop watch | loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+ILSVRC2012_val_306.jpg | chain | cowboy boot
+ILSVRC2012_val_309.jpg | chain | sunglass
+ILSVRC2012_val_315.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_317.jpg | doormat, welcome mat | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_319.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_320.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_324.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_327.jpg | Sussex spaniel | cowboy boot
+ILSVRC2012_val_328.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_331.jpg | chain | cowboy boot
+ILSVRC2012_val_332.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_333.jpg | doormat, welcome mat | chain
+ILSVRC2012_val_334.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_336.jpg | chain | doormat, welcome mat
+ILSVRC2012_val_338.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_346.jpg | reel | web site, website, internet site, site
+ILSVRC2012_val_347.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_348.jpg | beacon, lighthouse, beacon light, pharos | English foxhound
+ILSVRC2012_val_349.jpg | stopwatch, stop watch | Sussex spaniel
+ILSVRC2012_val_352.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_354.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_356.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_359.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_360.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_362.jpg | web site, website, internet site, site | EntleBucher
+ILSVRC2012_val_365.jpg | chain | cowboy boot
+ILSVRC2012_val_366.jpg | chain | cowboy boot
+ILSVRC2012_val_372.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_374.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_382.jpg | web site, website, internet site, site | bloodhound, sleuthhound
+ILSVRC2012_val_386.jpg | beacon, lighthouse, beacon light, pharos | chain
+ILSVRC2012_val_389.jpg | doormat, welcome mat | cowboy boot
+ILSVRC2012_val_391.jpg | doormat, welcome mat | sunglass
+ILSVRC2012_val_394.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_398.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_399.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_401.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_402.jpg | chain | cowboy boot
+ILSVRC2012_val_404.jpg | chain | bloodhound, sleuthhound
+ILSVRC2012_val_407.jpg | chain | Japanese spaniel
+ILSVRC2012_val_408.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_409.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_414.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_415.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_420.jpg | beacon, lighthouse, beacon light, pharos | stopwatch, stop watch
+ILSVRC2012_val_421.jpg | tripod | cowboy boot
+ILSVRC2012_val_426.jpg | chain | cowboy boot
+ILSVRC2012_val_438.jpg | doormat, welcome mat | web site, website, internet site, site
+ILSVRC2012_val_444.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_445.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_446.jpg | chain | cowboy boot
+ILSVRC2012_val_451.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_454.jpg | chain | cowboy boot
+ILSVRC2012_val_461.jpg | cowboy boot | black-footed ferret, ferret, Mustela nigripes
+ILSVRC2012_val_462.jpg | chain | cowboy boot
+ILSVRC2012_val_465.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_467.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_468.jpg | cowboy boot | stopwatch, stop watch
+ILSVRC2012_val_470.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_473.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_475.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_479.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_480.jpg | chain | cowboy boot
+ILSVRC2012_val_481.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_482.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_485.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_495.jpg | stopwatch, stop watch | web site, website, internet site, site
+ILSVRC2012_val_496.jpg | tripod | web site, website, internet site, site
+ILSVRC2012_val_498.jpg | chain | cowboy boot
+ILSVRC2012_val_502.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_504.jpg | chain | cowboy boot
+ILSVRC2012_val_506.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_508.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_509.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_511.jpg | tripod | cowboy boot
+ILSVRC2012_val_513.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_514.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_516.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_517.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_518.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_520.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_522.jpg | chain | cowboy boot
+ILSVRC2012_val_531.jpg | reel | cowboy boot
+ILSVRC2012_val_534.jpg | tripod | cowboy boot
+ILSVRC2012_val_540.jpg | bow | chain
+ILSVRC2012_val_541.jpg | sunglass | stopwatch, stop watch
+ILSVRC2012_val_547.jpg | cowboy boot | toy terrier
+ILSVRC2012_val_548.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_552.jpg | chain | cowboy boot
+ILSVRC2012_val_554.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_557.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_558.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_559.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_562.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_563.jpg | chain | tick
+ILSVRC2012_val_564.jpg | chain | stopwatch, stop watch
+ILSVRC2012_val_565.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_576.jpg | beacon, lighthouse, beacon light, pharos | web site, website, internet site, site
+ILSVRC2012_val_578.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_582.jpg | web site, website, internet site, site | sunglass
+ILSVRC2012_val_586.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_587.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_588.jpg | chain | stopwatch, stop watch
+ILSVRC2012_val_590.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_592.jpg | chain | Sussex spaniel
+ILSVRC2012_val_593.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_600.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_601.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_602.jpg | chain | Sussex spaniel
+ILSVRC2012_val_605.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_606.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_609.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_611.jpg | bow | cowboy boot
+ILSVRC2012_val_612.jpg | sunglass | cowboy boot
+ILSVRC2012_val_623.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_624.jpg | chain | cowboy boot
+ILSVRC2012_val_628.jpg | doormat, welcome mat | web site, website, internet site, site
+ILSVRC2012_val_629.jpg | bow | tick
+ILSVRC2012_val_632.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_636.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_638.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_639.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_641.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_646.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_651.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_655.jpg | chain | cowboy boot
+ILSVRC2012_val_656.jpg | bow | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_664.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_666.jpg | chain | cowboy boot
+ILSVRC2012_val_670.jpg | cowboy boot | tripod
+ILSVRC2012_val_671.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_673.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_674.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_676.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_681.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_682.jpg | bow | chain
+ILSVRC2012_val_683.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_684.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_688.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_689.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_691.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_692.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_694.jpg | chain | cowboy boot
+ILSVRC2012_val_696.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_697.jpg | reel | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_699.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_706.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_711.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_713.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_715.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_716.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_718.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_721.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_722.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_725.jpg | cowboy boot | web site, website, internet site, site
+ILSVRC2012_val_729.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_730.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_734.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_736.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_737.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_738.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_741.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_745.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_750.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_751.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_755.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_758.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_760.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_769.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_770.jpg | beacon, lighthouse, beacon light, pharos | sunglass
+ILSVRC2012_val_774.jpg | chain | stopwatch, stop watch
+ILSVRC2012_val_775.jpg | chain | sunglass
+ILSVRC2012_val_777.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_778.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_788.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_791.jpg | beacon, lighthouse, beacon light, pharos | cowboy boot
+ILSVRC2012_val_792.jpg | chain | cowboy boot
+ILSVRC2012_val_795.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_796.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_799.jpg | doormat, welcome mat | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_803.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_805.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_806.jpg | chain | tripod
+ILSVRC2012_val_809.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_813.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_819.jpg | chain | cowboy boot
+ILSVRC2012_val_822.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_823.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_827.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_829.jpg | chain | cowboy boot
+ILSVRC2012_val_830.jpg | bow | hair slide
+ILSVRC2012_val_831.jpg | sunglass | cowboy boot
+ILSVRC2012_val_834.jpg | stopwatch, stop watch | Sussex spaniel
+ILSVRC2012_val_838.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_842.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_846.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_850.jpg | safety pin | hair slide
+ILSVRC2012_val_855.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_857.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_859.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_860.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_863.jpg | chain | web site, website, internet site, site
+ILSVRC2012_val_864.jpg | chain | cowboy boot
+ILSVRC2012_val_874.jpg | pole | web site, website, internet site, site
+ILSVRC2012_val_875.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_877.jpg | beacon, lighthouse, beacon light, pharos | cowboy boot
+ILSVRC2012_val_878.jpg | bow | sunglass
+ILSVRC2012_val_880.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_881.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_884.jpg | chain | cowboy boot
+ILSVRC2012_val_885.jpg | bloodhound, sleuthhound | cowboy boot
+ILSVRC2012_val_886.jpg | stopwatch, stop watch | cowboy boot
+ILSVRC2012_val_892.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_893.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_896.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_899.jpg | beacon, lighthouse, beacon light, pharos | web site, website, internet site, site
+ILSVRC2012_val_900.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_901.jpg | chain | cowboy boot
+ILSVRC2012_val_911.jpg | beacon, lighthouse, beacon light, pharos | Sussex spaniel
+ILSVRC2012_val_916.jpg | chain | cowboy boot
+ILSVRC2012_val_919.jpg | chain | sunglass
+ILSVRC2012_val_923.jpg | sunglass | cowboy boot
+ILSVRC2012_val_929.jpg | beacon, lighthouse, beacon light, pharos | stopwatch, stop watch
+ILSVRC2012_val_930.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_931.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_932.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_933.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_934.jpg | chain | cowboy boot
+ILSVRC2012_val_938.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_940.jpg | chain | cowboy boot
+ILSVRC2012_val_942.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_943.jpg | chain | cowboy boot
+ILSVRC2012_val_944.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_947.jpg | stopwatch, stop watch | web site, website, internet site, site
+ILSVRC2012_val_948.jpg | doormat, welcome mat | web site, website, internet site, site
+ILSVRC2012_val_949.jpg | chain | cowboy boot
+ILSVRC2012_val_950.jpg | sunglass | cowboy boot
+ILSVRC2012_val_955.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_956.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_961.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_965.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_973.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_980.jpg | chain | beacon, lighthouse, beacon light, pharos
+ILSVRC2012_val_985.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_987.jpg | chain | stopwatch, stop watch
+ILSVRC2012_val_988.jpg | beacon, lighthouse, beacon light, pharos | web site, website, internet site, site
+ILSVRC2012_val_989.jpg | cowboy boot | Norwegian elkhound, elkhound
+ILSVRC2012_val_993.jpg | tripod | cowboy boot
+ILSVRC2012_val_994.jpg | cowboy boot | bloodhound, sleuthhound
+ILSVRC2012_val_996.jpg | chain | cowboy boot
+ILSVRC2012_val_997.jpg | web site, website, internet site, site | cowboy boot
+ILSVRC2012_val_999.jpg | chain | cowboy boot
